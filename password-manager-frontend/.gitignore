@@ -1,0 +1,16 @@
+# Docker
+**/node_modules/
+**/.env
+**/npm-debug.log
+
+# MongoDB
+/data/db/
+mongodb_data/
+
+# Claves y certificados
+**/keys/
+**/*.pem
+
+# IDE/Editor
+.vscode/
+.idea/
